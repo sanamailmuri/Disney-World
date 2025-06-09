@@ -1,8 +1,5 @@
-# I'm Going to Disney World!
-Here is my second major project for my Coding Dojo Data Science program. 
-
-# [Live Presentation](https://youtu.be/We4ypWGU3ug?t=3805)
-I presented this live during my final week of Coding Dojo Program. 
+# Disney World!
+Here is my project for my Data Science program. 
 
 # Background: 
 I worked with a small dataset I retrieved from [data.world](https://data.world/lynne588/walt-disney-world-ride-data/workspace/file?filename=WDW_Ride_Data_DW.xlsx) to analyze what it is that makes a ride enjoyable, i.e., rated highly, by its guests. I hope that through this project, I can explore and spot trends that can be used for future attractions and extend to other theme parks. 
@@ -11,16 +8,6 @@ A concern regarding this project would be that it may be hard to generalize find
 
 ## Goal: 
 Analyze the rides of Disney World and create a model that can predict features of a highly rated amusement park ride.
-
-## My connection: 
-As a Florida resident, rollercoaster enthusiast, and Annual Passholder at Walt Disney World, I chose to investigate a topic I hold dearly; amusement park rides.
-
-
-
-# Data Dictionary:
-The original 27 columns of the dataset
-
-![image](https://user-images.githubusercontent.com/86759538/134617993-dd70df18-d213-456b-9891-0cc0e5b14562.png)
 
 
 # Data Cleaning Summary:
